@@ -1,0 +1,19 @@
+date,time,day_type,street,weather,traffic_density
+2025-05-06,08:30,weekday,Atatürk Blv,sunny,2
+2025-05-06,17:30,weekday,Atatürk Blv,rainy,4
+2025-05-11,08:30,weekend,İsmet İnönü Cd,sunny,1
+2025-05-14,17:30,weekday,İsmet İnönü Cd,storm,5
+2025-06-01,08:30,weekend,Konya Yolu,cloudy,1
+2025-06-05,17:30,weekday,Konya Yolu,rainy,4
+
+ traffic_density ölçeği:
+
+1 = çok az
+
+2 = az
+
+3 = orta
+
+4 = yoğun
+
+5 = çok yoğun
